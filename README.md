@@ -1,2 +1,2 @@
-# Project21
-bullets and walls by Xenia
+# p5.play-boilerplate
+Boiler plate for p5.play
